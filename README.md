@@ -1,6 +1,6 @@
-# mail_fapp
+# Mail Notification Project
 
-A new Flutter project.
+This application allows you to send an e-mail of which you specify the subject and content to the desired e-mail address, through your own e-mail account.
 
 ## Getting Started
 
